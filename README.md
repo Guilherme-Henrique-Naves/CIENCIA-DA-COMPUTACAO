@@ -7,8 +7,11 @@ Repositório com trabalhos, projetos, exercícios e atividades desenvolvidos dur
 ## 📚 Conteúdos
 
 ( AED-2 )Algoritmos e Estruturas de Dados II.
+
 ( CN )Cálculo Numérico.
+
 ( LFA )Linguagens Formais e Autômatos.
+
 ( PP )Paradigmas de Programação.
 ( SO )Sistemas Operacionais.
 ( BD )Banco de Dados.
